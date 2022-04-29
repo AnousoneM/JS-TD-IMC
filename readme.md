@@ -39,7 +39,7 @@ Le dossier de ce test sera composé de cette manière :
 ![Tableau IMC](img/calcul-imc-homme-tableau.jpeg "Tableau IMC")  
 
 ## Pièges à éviter
-* Avertir l'utilisateur qu'il ne peut pas entrer que des chiffres (ex. de fonctions utiles : isNaN(), Number(), ...)
+* Avertir l'utilisateur qu'il ne peut entrer que des chiffres (ex. de fonctions utiles : isNaN(), Number(), ...)
 * Attention au opération impossible : *ex. une division par zéro*
 ## A VOUS DE CODER !!
 > Ne pas avoir peur de son IMC, ce n'est qu'un chiffre :D
